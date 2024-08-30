@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joy Permpipat</h1>
+<h1 align="center">Hi 👋, I'm Joy</h1>
 <h3 align="center">A Junior Developer from Thailand</h3>
 
 ### My Portfolio Website: https://joytodev.netlify.app
