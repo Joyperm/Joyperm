@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Joy</h1>
-<h3 align="center">A Junior Developer from Thailand</h3>
+<h3 align="center">A Developer from Thailand</h3>
 
-### My Portfolio Website: https://joytodev.netlify.app
+### My Portfolio Website: [visite my website](https://joytodev.netlify.app)
 
 - 🔭 I’m currently studying **Computing Studies & Information Systems**
 
-- 🌱 I’m currently learning **React js, Node js, Docker**
+- 🌱 I’m currently learning **React js, Node js, Machine Learning for data science**
 
-- 👯 I’m looking for intership related to **Software developer**
+- 👯 I’m looking for intership related to **Data Analyst and Developer**
 
 - 📫 How to reach me **joy.permpipat@gmail.com**
 
