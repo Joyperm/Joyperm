@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joy</h1>
 <h3 align="center">A Developer from Thailand</h3>
 
-### My Portfolio Website: [visite my website](https://joy2dev.netlify.app/)
+### My Portfolio Website: [visite my website](https://jtodev.netlify.app/)
 
 - 🔭 I’m currently studying **Computing Studies & Information Systems**
 
