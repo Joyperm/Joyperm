@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React js, Node js, Machine Learning for data science**
 
-- 👯 I’m looking for intership related to **Data Analyst and Developer**
+- 👯 I’m looking for full-time or part-time position related to **Data Analyst and Developer**
 
 - 📫 How to reach me **joy.permpipat@gmail.com**
 
