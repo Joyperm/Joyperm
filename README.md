@@ -3,7 +3,6 @@
 
 ### My Portfolio Website: [visite my website](https://jtodev.netlify.app/)
 
-- 🔭 I’m currently studying **Computing Studies & Information Systems**
 
 - 🌱 I’m currently learning **React js, Node js, Machine Learning for data science**
 
