@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joy</h1>
 
 
-### My Portfolio Website: [visite my website](https://jtodev.netlify.app/)
+### My Portfolio Website: [visite my website](https://npmijoy.netlify.app/)
 
 
 - 🌱 I’m currently learning **React js, Node js, Machine Learning for data science**
