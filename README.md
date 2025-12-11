@@ -8,7 +8,6 @@
 
 - 👯 I’m looking for full-time or part-time position related to **Data Analyst and Developer**
 
-- 📫 How to reach me **joy.permpipat@gmail.com**
 
 <h3 align="left">💻Connect with me:</h3>
 <p align="left">
